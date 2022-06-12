@@ -1,0 +1,9 @@
+{
+	"port" :1337,
+	"host": "localhost",
+	"saltWorkFactor": 10,
+	"accessTokenTtl": "15m",
+	"refreshTokenTtl": "1y",
+	"privateKey":  "MIICXgIBAAKBgQDWB9i4d8FBXu1ip+1yk+41keGpUe/dWT1h7WbFv1MOKIs2Glgl1i35Agr1oqcfz1VbZoHIbwM0Mpc7v+vgYyjX/xo6Q7qXnVKTa8Sb48wUc1tQfQF4gBZWjq6VloZ8qChRd8SVH+RGQ+l2iBj807oi+fx2vjJ+aNqJwj2Pxisa+wIDAQABAoGBALOYl/mKu8av8kBTq0L28O9Qv2wGTmGN7Z0Lya5rsjTyPoaiqo7tX1xQo4Ok/doKb5SnuoXG6YhWX2MK09JRQsYbP+59obtGk40jxvB/7SSk1wsFaEAlvXI7br0FzsPkg96RSjzKljsFCccE/h4qGOKBiiLcOJInOhdeVa2tjDmZAkEA+MJ0Fv6cNgCb79+MRM4efFEPF/8ncOA0DxtrunA0WzV4Xn7UvAPRUKv8l8NzATEXrkxVfZK0DwbzioLAeKonFQJBANxCn1Rj8JoseI4xmXlq3EX7vJmZ/g7wTs1GHm3GdR+kKqDI0Qmo/PB/zDzxbv07ZfUHlYgOJeZXONVpuf2Pvc8CQCRhxDrMuCoJwsS9bDVv8/N4o319+tW+ZL7E4uecm3uvgVBIunJZGJb04HeNxVcqR+1dCq/X8e+0s4/RebbsI9UCQQC2iAOQJQ5URfxWImaEh3kqCfd+923ipWU4mh5HbMrNQPgOrL0HG2MaT15LNu16sEnLKNDTop3n6Gpx+Z8nsYJjAkEArAarvzJWDgBXVBQ1tRiUXc99ni2oN92FGu+Gonvj0Cw6aoaCG+735l9qWRIALYPKHfuY6HNgOF31yqhNoflTOA=="
+	
+}
